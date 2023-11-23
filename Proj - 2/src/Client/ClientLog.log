@@ -1,0 +1,11 @@
+[26-10-2023 22:07:02.705] INFO - Insertion of Key Value Success - Key a Packet id 1698372419620
+[26-10-2023 22:07:05.753] INFO - Insertion of Key Value Success - Key b Packet id 1698372422748
+[26-10-2023 22:07:08.762] INFO - Insertion of Key Value Success - Key c Packet id 1698372425753
+[26-10-2023 22:07:08.772] INFO - Server: Get Successful a Value: 1
+[26-10-2023 22:07:08.778] SEVERE - Get failed not able to identifyy
+[26-10-2023 22:07:08.781] SEVERE - Get failed not able to identifyz
+[26-10-2023 22:07:08.785] SEVERE - Get failed not able to identifyt
+[26-10-2023 22:07:08.788] SEVERE - Deletion failedp
+[26-10-2023 22:07:09.795] INFO - Deletion successful.a
+[26-10-2023 22:07:37.762] INFO - Insertion of Key Value Success - Key a Packet id 1698372454754
+[26-10-2023 22:07:44.545] INFO - Server: Get Successful a Value: 2

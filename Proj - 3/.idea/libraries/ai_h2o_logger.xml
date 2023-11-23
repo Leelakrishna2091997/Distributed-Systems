@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ai.h2o.logger" type="repository">
+    <properties maven-id="ai.h2o:h2o-logger:3.36.0.2" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/h2o-logger-3.36.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,66 @@
+[22-11-2023 21:08:20.842] INFO - Each Server Data{}
+[22-11-2023 21:08:20.883] INFO - Each Server Data{}
+[22-11-2023 21:08:20.884] INFO - Each Server Data{}
+[22-11-2023 21:08:20.885] INFO - Each Server Data{}
+[22-11-2023 21:08:20.886] INFO - Each Server Data{}
+[22-11-2023 21:08:20.888] INFO - Server: Inserting Key - a Value - 1
+[22-11-2023 21:08:21.889] INFO - Server: Insertion Successful
+[22-11-2023 21:08:21.893] INFO - Server: Inserting Key - a Value - 1
+[22-11-2023 21:08:22.897] INFO - Server: Insertion Successful
+[22-11-2023 21:08:22.899] INFO - Server: Inserting Key - a Value - 1
+[22-11-2023 21:08:23.905] INFO - Server: Insertion Successful
+[22-11-2023 21:08:23.907] INFO - Server: Inserting Key - a Value - 1
+[22-11-2023 21:08:24.912] INFO - Server: Insertion Successful
+[22-11-2023 21:08:24.915] INFO - Server: Inserting Key - a Value - 1
+[22-11-2023 21:08:25.917] INFO - Server: Insertion Successful
+[22-11-2023 21:08:25.932] INFO - Each Server Data{a=1}
+[22-11-2023 21:08:25.935] INFO - Each Server Data{a=1}
+[22-11-2023 21:08:25.937] INFO - Each Server Data{a=1}
+[22-11-2023 21:08:25.939] INFO - Each Server Data{a=1}
+[22-11-2023 21:08:25.941] INFO - Each Server Data{a=1}
+[22-11-2023 21:08:25.986] INFO - Each Server Data{a=1}
+[22-11-2023 21:08:25.987] INFO - Each Server Data{a=1}
+[22-11-2023 21:08:25.989] INFO - Each Server Data{a=1}
+[22-11-2023 21:08:25.990] INFO - Each Server Data{a=1}
+[22-11-2023 21:08:25.991] INFO - Each Server Data{a=1}
+[22-11-2023 21:08:25.991] INFO - Server: Inserting Key - b Value - 2
+[22-11-2023 21:08:26.997] INFO - Server: Insertion Successful
+[22-11-2023 21:08:27.000] INFO - Server: Inserting Key - b Value - 2
+[22-11-2023 21:08:28.007] INFO - Server: Insertion Successful
+[22-11-2023 21:08:28.008] INFO - Server: Inserting Key - b Value - 2
+[22-11-2023 21:08:29.011] INFO - Server: Insertion Successful
+[22-11-2023 21:08:29.014] INFO - Server: Inserting Key - b Value - 2
+[22-11-2023 21:08:30.020] INFO - Server: Insertion Successful
+[22-11-2023 21:08:30.023] INFO - Server: Inserting Key - b Value - 2
+[22-11-2023 21:08:31.030] INFO - Server: Insertion Successful
+[22-11-2023 21:08:31.034] INFO - Each Server Data{a=1, b=2}
+[22-11-2023 21:08:31.037] INFO - Each Server Data{a=1, b=2}
+[22-11-2023 21:08:31.040] INFO - Each Server Data{a=1, b=2}
+[22-11-2023 21:08:31.042] INFO - Each Server Data{a=1, b=2}
+[22-11-2023 21:08:31.044] INFO - Each Server Data{a=1, b=2}
+[22-11-2023 21:08:31.051] INFO - Each Server Data{a=1, b=2}
+[22-11-2023 21:08:31.053] INFO - Each Server Data{a=1, b=2}
+[22-11-2023 21:08:31.055] INFO - Each Server Data{a=1, b=2}
+[22-11-2023 21:08:31.057] INFO - Each Server Data{a=1, b=2}
+[22-11-2023 21:08:31.058] INFO - Each Server Data{a=1, b=2}
+[22-11-2023 21:08:31.059] INFO - Server: Inserting Key - c Value - 3
+[22-11-2023 21:08:32.060] INFO - Server: Insertion Successful
+[22-11-2023 21:08:32.062] INFO - Server: Inserting Key - c Value - 3
+[22-11-2023 21:08:33.068] INFO - Server: Insertion Successful
+[22-11-2023 21:08:33.071] INFO - Server: Inserting Key - c Value - 3
+[22-11-2023 21:08:34.078] INFO - Server: Insertion Successful
+[22-11-2023 21:08:34.081] INFO - Server: Inserting Key - c Value - 3
+[22-11-2023 21:08:35.087] INFO - Server: Insertion Successful
+[22-11-2023 21:08:35.090] INFO - Server: Inserting Key - c Value - 3
+[22-11-2023 21:08:36.092] INFO - Server: Insertion Successful
+[22-11-2023 21:08:36.098] INFO - Each Server Data{a=1, b=2, c=3}
+[22-11-2023 21:08:36.101] INFO - Each Server Data{a=1, b=2, c=3}
+[22-11-2023 21:08:36.103] INFO - Each Server Data{a=1, b=2, c=3}
+[22-11-2023 21:08:36.106] INFO - Each Server Data{a=1, b=2, c=3}
+[22-11-2023 21:08:36.108] INFO - Each Server Data{a=1, b=2, c=3}
+[22-11-2023 21:08:36.115] INFO - Server: Finding Keya
+[22-11-2023 21:08:36.116] INFO - Server: Key FoundKey: a Value: 1
+[22-11-2023 21:08:36.121] SEVERE - Invalid Key y #1700705316120
+[22-11-2023 21:08:36.123] SEVERE - Invalid Key z #1700705316123
+[22-11-2023 21:08:36.125] SEVERE - Invalid Key t #1700705316125
+[22-11-2023 21:08:36.127] SEVERE - Invalid Key Key p #1700705316126

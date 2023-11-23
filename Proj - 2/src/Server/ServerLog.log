@@ -1,0 +1,18 @@
+[26-10-2023 22:06:59.631] INFO - Server: Inserting Key - a Value - 1
+[26-10-2023 22:07:02.690] INFO - Server: Insertion Successful
+[26-10-2023 22:07:02.749] INFO - Server: Inserting Key - b Value - 2
+[26-10-2023 22:07:05.750] INFO - Server: Insertion Successful
+[26-10-2023 22:07:05.754] INFO - Server: Inserting Key - c Value - 3
+[26-10-2023 22:07:08.760] INFO - Server: Insertion Successful
+[26-10-2023 22:07:08.765] INFO - Server: Finding Keya
+[26-10-2023 22:07:08.766] INFO - Server: Key FoundKey: a Value: 1
+[26-10-2023 22:07:08.777] SEVERE - Invalid Key y #1698372428773
+[26-10-2023 22:07:08.780] SEVERE - Invalid Key z #1698372428779
+[26-10-2023 22:07:08.783] SEVERE - Invalid Key t #1698372428782
+[26-10-2023 22:07:08.787] SEVERE - Invalid Key Key p #1698372428786
+[26-10-2023 22:07:08.789] INFO - Server: Deletion a
+[26-10-2023 22:07:09.795] INFO - Delete Successful
+[26-10-2023 22:07:34.755] INFO - Server: Inserting Key - a Value - 2
+[26-10-2023 22:07:37.761] INFO - Server: Insertion Successful
+[26-10-2023 22:07:44.543] INFO - Server: Finding Keya
+[26-10-2023 22:07:44.544] INFO - Server: Key FoundKey: a Value: 2

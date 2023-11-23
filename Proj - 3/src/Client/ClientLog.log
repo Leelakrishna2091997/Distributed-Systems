@@ -1,0 +1,9 @@
+[22-11-2023 21:08:25.950] INFO - Insertion of Key Value Success and replicated across all servers - Key a Packet id 1700705300815
+[22-11-2023 21:08:31.046] INFO - Insertion of Key Value Success and replicated across all servers - Key b Packet id 1700705305983
+[22-11-2023 21:08:36.110] INFO - Insertion of Key Value Success and replicated across all servers - Key c Packet id 1700705311047
+[22-11-2023 21:08:36.119] INFO - Server: Get Successful a Value: 1
+[22-11-2023 21:08:36.122] SEVERE - Get failed not able to identifyy
+[22-11-2023 21:08:36.124] SEVERE - Get failed not able to identifyz
+[22-11-2023 21:08:36.126] SEVERE - Get failed not able to identifyt
+[22-11-2023 21:08:36.128] SEVERE - Deletion failedp
+[22-11-2023 21:08:36.130] SEVERE - Deletion faileda
